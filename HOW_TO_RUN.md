@@ -18,13 +18,13 @@ To get started, clone the repository from GitHub:
    git clone https://github.com/yaelifrommer/ExchangeRates.git
 ```
 ## **Project Structure**
-- Client: `ExchangeRatesApp\Client\Client`
-- Server: `ExchangeRatesApp\Server\ExchangeRatesApi\ExchangeRatesApi`
+- Client: `ExchangeRates\Client\Client`
+- Server: `ExchangeRates\Server\ExchangeRatesApi\ExchangeRatesApi`
 
 ## **Running the Server**
 
 1. **Navigate to the Server Directory:**
-   cd ExchangeRatesApp\Server\ExchangeRatesApi\ExchangeRatesApi
+   cd ExchangeRates\Server\ExchangeRatesApi\ExchangeRatesApi
 
 
 2. **Restore Dependencies:**
@@ -38,8 +38,8 @@ To get started, clone the repository from GitHub:
    ```
 
 4. **Run the Server:**
-   ```sh
-   dotnet run
+   ```sh 
+   Open the ExchangeRatesApi.sln file and run the project by clicking the green 'Run' button, which is labeled 'IIS Express'
    ```
    The server will start and listen on the default port (usually `http://localhost:5000`).
 
@@ -47,7 +47,8 @@ To get started, clone the repository from GitHub:
 
 1. **Navigate to the Client Directory:**
    ```sh
-   cd ExchangeRatesApp\Client\Client
+   Return to the main folder - where you cloned into.
+   cd ExchangeRates\Client\Client
    ```
 
 2. **Install Dependencies:**
