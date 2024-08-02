@@ -6,6 +6,17 @@
   - [Node.js](https://nodejs.org/) (version 18 or higher)
   - [npm](https://www.npmjs.com/) (comes with Node.js)
 
+## Cloning the Repository
+
+To get started, clone the repository from GitHub:
+
+1. Open your command line interface (CLI).
+2. Navigate to the directory where you want to clone the repository.
+3. Run the following command:
+
+   ```sh
+   git clone https://github.com/yaelifrommer/ExchangeRates.git
+```
 ## Project Structure
 - **Client**: `ExchangeRatesApp\Client\Client`
 - **Server**: `ExchangeRatesApp\Server\ExchangeRatesApi\ExchangeRatesApi`
