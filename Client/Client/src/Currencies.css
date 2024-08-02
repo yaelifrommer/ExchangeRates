@@ -1,0 +1,204 @@
+/* Importing Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+/* Global styles for body */
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+/* Link styling */
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+
+a:hover {
+  color: #535bf2;
+}
+
+/* Button styles */
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+
+button:hover {
+  border-color: #646cff;
+}
+
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+/* Main background style */
+.main-background {
+  color: #fff;
+  padding: 60px 20px;
+}
+
+/* Full height layout */
+.site-layout {
+  min-height: 100vh;
+}
+
+/* Header with vertical text */
+.site-header {
+  background-color: rgba(0, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  height: 100%;
+  width: 60px;
+  margin-right: 40px;
+}
+
+/* Title styling */
+.site-title {
+  color: #ff6347;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  /* Gradient effect for text */
+  background: linear-gradient(90deg, #ff8c00, #e0e0e0, #6a5acd);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Box with "בס"ד" at the top-right corner */
+.bsd-box {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 5px 10px;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  font-weight: bold;
+  z-index: 1000;
+}
+
+/* Content wrapper with rounded corners */
+.content-wrapper {
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 40px;
+  border-radius: 8px;
+  margin-top: -30px;
+  width: 100%;
+}
+
+/* Large display titles */
+.display-4 {
+  font-size: 2.5rem;
+  color: #e9ecef;
+}
+
+/* Dropdown menu styling */
+select.form-control-lg {
+  border: 2px solid #fff;
+  background-color: rgba(255, 255, 255, 0.8);
+  color: #343a40;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border-radius: 5px;
+  max-width: 400px;
+}
+
+/* Table styling */
+.table {
+  margin-top: 20px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+/* Table header style */
+thead th {
+  background-color: #212529;
+  color: #fff;
+}
+
+/* Hover effect for table rows */
+.table-hover tbody tr:hover {
+  background-color: #495057;
+  color: #fff;
+}
+
+/* Small headers style */
+h2 {
+  color: #e9ecef;
+  font-size: 2rem;
+  margin-top: 30px;
+}
+
+/* Decorative line under headers */
+.decorative-div {
+  height: 10px;
+  background-color: #e9ecef;
+  border-radius: 5px;
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* Decorative footer element */
+.footer-decorative {
+  height: 20px;
+  background-color: #212529;
+  border-radius: 5px;
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+/* Changes for small screens - Responsive design */
+@media (max-width: 768px) {
+  .site-header {
+    writing-mode: horizontal-tb;
+    transform: rotate(0);
+    padding: 10px;
+    width: 100%;
+    margin-right: 0;
+  }
+  
+  .site-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+    background: linear-gradient(90deg, #ff6347, #ff8c00, #6a5acd);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  
+  .content-wrapper {
+    margin-top: 20px;
+  }
+}
+
+/* Light theme adjustments */
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
