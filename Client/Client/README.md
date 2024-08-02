@@ -1,7 +1,7 @@
 
 # Currency Exchange Client
 
-**Hinda Frommer**  
+**Hinda Yael Frommer**  
 Email: [hindoush1111111@gmail.com](mailto:hindoush1111111@gmail.com)  
 Phone: +972-55-672-7164
 
