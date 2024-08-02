@@ -18,8 +18,8 @@ To get started, clone the repository from GitHub:
    git clone https://github.com/yaelifrommer/ExchangeRates.git
 ```
 ## Project Structure
-- **Client**: `ExchangeRatesApp\Client\Client`
-- **Server**: `ExchangeRatesApp\Server\ExchangeRatesApi\ExchangeRatesApi`
+- Client: `ExchangeRatesApp\Client\Client`
+- Server: `ExchangeRatesApp\Server\ExchangeRatesApi\ExchangeRatesApi`
 
 ## Running the Server
 
