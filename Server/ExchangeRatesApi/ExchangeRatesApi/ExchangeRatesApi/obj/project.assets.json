@@ -477,11 +477,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hindo\\OneDrive\\מסמכים\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi.csproj",
+      "projectUniqueName": "C:\\Users\\hindo\\OneDrive\\מסמכים\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi.csproj",
       "projectName": "ExchangeRatesApi",
-      "projectPath": "C:\\Users\\hindo\\OneDrive\\מסמכים\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi.csproj",
+      "projectPath": "C:\\Users\\hindo\\OneDrive\\מסמכים\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi.csproj",
       "packagesPath": "C:\\Users\\hindo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hindo\\OneDrive\\מסמכים\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\obj\\",
+      "outputPath": "C:\\Users\\hindo\\OneDrive\\מסמכים\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hindo\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -21,7 +21,7 @@ const Currencies = () => {
   // Get the list of currencies from the server when the component starts
   useEffect(() => {
     axios
-      .get('https://localhost:44372/ExchangeRates/currencies')
+      .get('http://localhost:44372/ExchangeRates/currencies')
       .then((response) => {
         console.log('Currencies data:', response.data); // Show data in the console
         setCurrencies(response.data); // Save currencies in state
@@ -36,7 +36,7 @@ const Currencies = () => {
   useEffect(() => {
     if (selectedCurrency) {
       axios
-        .get(`https://localhost:44372/ExchangeRates/exchange_rates/${selectedCurrency}`)
+        .get(`http://localhost:44372/ExchangeRates/exchange_rates/${selectedCurrency}`)
         .then((response) => {
           console.log('Exchange rates data:', response.data); // Show exchange rates in the console
           if (response.data && typeof response.data === 'object') {

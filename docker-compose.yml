@@ -1,0 +1,16 @@
+version: '3.8'
+
+services:
+  server:
+    build:
+      context: ./Server
+    ports:
+      - "44372:44372"  # Bind port 44372 on the host to port 44372 in the container
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+
+  client:
+    build:
+      context: ./Client
+    ports:
+      - "8080:80"  # Bind port 8080 on the host to port 80 in the container

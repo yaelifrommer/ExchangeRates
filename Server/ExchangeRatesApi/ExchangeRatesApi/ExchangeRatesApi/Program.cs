@@ -1,5 +1,10 @@
-
 var builder = WebApplication.CreateBuilder(args);
+
+// Configure Kestrel to listen on port 44372
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ListenAnyIP(44372);
+});
 
 // Add services to the container.
 builder.Services.AddControllers();
@@ -29,9 +34,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-
 app.UseAuthorization();
-
 app.UseCors("AllowAllOrigins");
 
 app.MapControllers();

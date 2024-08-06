@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\",
+  "WorkspaceRootPath": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|c:\\users\\hindo\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\work\\exchangeratesapp\\server\\exchangeratesapi\\exchangeratesapi\\exchangeratesapi\\controllers\\exchangeratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|c:\\users\\hindo\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\work\\eom\\exchangerates\\server\\exchangeratesapi\\exchangeratesapi\\exchangeratesapi\\controllers\\exchangeratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|solutionrelative:exchangeratesapi\\controllers\\exchangeratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|c:\\users\\hindo\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\work\\exchangeratesapp\\server\\exchangeratesapi\\exchangeratesapi\\exchangeratesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|c:\\users\\hindo\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\work\\eom\\exchangerates\\server\\exchangeratesapi\\exchangeratesapi\\exchangeratesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|solutionrelative:exchangeratesapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|c:\\users\\hindo\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\work\\exchangeratesapp\\server\\exchangeratesapi\\exchangeratesapi\\exchangeratesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|c:\\users\\hindo\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\work\\eom\\exchangerates\\server\\exchangeratesapi\\exchangeratesapi\\exchangeratesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|solutionrelative:exchangeratesapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|c:\\users\\hindo\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\work\\exchangeratesapp\\server\\exchangeratesapi\\exchangeratesapi\\exchangeratesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|c:\\users\\hindo\\onedrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\work\\eom\\exchangerates\\server\\exchangeratesapi\\exchangeratesapi\\exchangeratesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{E6A4A064-6594-4D54-B140-73B6BECED04A}|ExchangeRatesApi\\ExchangeRatesApi.csproj|solutionrelative:exchangeratesapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ExchangeRatesApi\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "ExchangeRatesApi\\Properties\\launchSettings.json",
               "ViewState": "AQIAABEAAAAAAAAAAAAAABcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\appsettings.json",
               "RelativeDocumentMoniker": "ExchangeRatesApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\appsettings.json",
               "RelativeToolTip": "ExchangeRatesApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -56,9 +56,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Program.cs",
               "RelativeDocumentMoniker": "ExchangeRatesApi\\Program.cs",
-              "ToolTip": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Program.cs",
               "RelativeToolTip": "ExchangeRatesApi\\Program.cs",
               "ViewState": "AQIAACYAAAAAAAAAAAAAAAUAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,11 +68,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ExchangeRatesController.cs",
-              "DocumentMoniker": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Controllers\\ExchangeRatesController.cs",
+              "DocumentMoniker": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Controllers\\ExchangeRatesController.cs",
               "RelativeDocumentMoniker": "ExchangeRatesApi\\Controllers\\ExchangeRatesController.cs",
-              "ToolTip": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\ExchangeRatesApp\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Controllers\\ExchangeRatesController.cs",
+              "ToolTip": "C:\\Users\\hindo\\OneDrive\\\u05DE\u05E1\u05DE\u05DB\u05D9\u05DD\\Work\\EOM\\ExchangeRates\\Server\\ExchangeRatesApi\\ExchangeRatesApi\\ExchangeRatesApi\\Controllers\\ExchangeRatesController.cs",
               "RelativeToolTip": "ExchangeRatesApi\\Controllers\\ExchangeRatesController.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAgwA4AAAAbAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-31T12:24:59.719Z",
               "EditorCaption": ""
