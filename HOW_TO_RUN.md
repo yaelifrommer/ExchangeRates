@@ -29,6 +29,9 @@ To get started, clone the repository from GitHub:
 
 ### Option 1: Using Docker
 
+Ensure Docker Desktop is Running:
+Before proceeding, make sure Docker Desktop is running on your machine. You can start it from your applications or system tray.
+
 1. **Navigate to the Project Directory:**
    ```sh
    cd ExchangeRates
